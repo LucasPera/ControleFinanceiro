@@ -12,7 +12,7 @@ Um sistema simples e funcional para gerenciar suas finanças pessoais, desenvolv
 ### Back-end:
 - **Spring Boot**: Para criação de APIs REST.
 - **JPA/Hibernate**: Para gerenciamento de persistência no banco de dados.
-- **MySQL**: Banco de dados relacional.
+- **MySQL**: Banco de dados relacional. (por enquanto está com h2)
 - **Domain-Driven Design (DDD)**: Arquitetura estruturada por camadas.
 
 ### Front-end:

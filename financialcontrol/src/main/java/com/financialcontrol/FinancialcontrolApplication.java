@@ -1,4 +1,4 @@
-package com.financialcontrol.financialcontrol;
+package com.financialcontrol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

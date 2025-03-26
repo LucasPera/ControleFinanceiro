@@ -1,13 +1,13 @@
-package br.com.controlefinanceiro.controleficanceiro;
+package com.financialcontrol.financialcontrol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ControleficanceiroApplication {
+public class FinancialcontrolApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ControleficanceiroApplication.class, args);
+		SpringApplication.run(FinancialcontrolApplication.class, args);
 	}
 
 }

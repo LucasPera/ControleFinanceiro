@@ -1,10 +1,10 @@
-package br.com.controlefinanceiro.controleficanceiro;
+package com.financialcontrol.financialcontrol;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ControleficanceiroApplicationTests {
+class FinancialcontrolApplicationTests {
 
 	@Test
 	void contextLoads() {
